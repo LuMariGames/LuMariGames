@@ -13,7 +13,7 @@ Scratchを約1年半やってそこから後ほど書く、TJAPlayer for 3DSに�
 
 ## 主に何をしているか？
 
-TJAPlayer for 3DS を改良し、TJAP_3DS を後継として出しています。  
+TJAPlayer for 3DS を改良し、[TJAP_3DS](https://github.com/LuMariGames/TJAP_3DS) を後継として出しています。  
 現在もその改良に力を注いでいます。  
 
 ## 今はどんな所を改良しているか？  
