@@ -1,7 +1,7 @@
 # 自己紹介  
 
 私のプロフィールを見てくれてありがとうございます  
-私は、LuMariGamesと申します。
+私は、LuMariGamesと申します。  
 Scratchを約1年半やってそこから後ほど書く、TJAPlayer for 3DSにハマり、  
 独学と検索のパワーでC++を学び使う初心者プログラマーです。  
 
@@ -21,4 +21,4 @@ TJAPlayer for 3DS を改良し、TJAP_3DS を後継として出しています�
 HBSCROLL等のまだ実装されていないギミックを追加予定としています。  
 この作業にはかなりの時間を要するのでゆっくりお待ち下さい。  
 
-![1](https://github.com/user-attachments/assets/e672b358-6daa-4a8a-a998-63bcddf17483)
+![時期アップデートの紹介画像](https://github.com/user-attachments/assets/e672b358-6daa-4a8a-a998-63bcddf17483)
